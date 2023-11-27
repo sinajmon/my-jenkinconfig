@@ -118,6 +118,7 @@ jobs:
               }
           }
       } 
+  - url: https://raw.githubusercontent.com/sinajmon/seedpipe/main/seed.groovy    
   - url: https://raw.githubusercontent.com/sinajmon/seedorganization/main/seed.groovy
 globalCredentialsConfiguration:
   configuration:
